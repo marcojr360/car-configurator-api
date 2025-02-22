@@ -1,1 +1,14 @@
-
+{
+  "exterior": {
+    "bianco": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-bianco.jpg",
+    "blu": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-blu.jpg",
+    "grigio-opaco": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-grigio-opaco.jpg",
+    "grigio": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-grigio.jpg",
+    "nero": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-nero.jpg",
+    "rosso": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/exterior/car-rosso.jpg"
+  },
+  "interior": {
+    "bianco": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/interior/interior-bianco.jpg",
+    "nero": "https://raw.githubusercontent.com/marcojr360/car-configurator-api/main/images/interior/interior-nero.jpg"
+  }
+}
